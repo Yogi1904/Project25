@@ -19,8 +19,8 @@ class Bin {
   
         rectMode(CENTER);
         strokeWeight(3);
-        stroke("black");
-        fill("black");
+        stroke("white");
+        fill("white");
         rect(0, 0, this.width, this.height);
         pop();
       }
